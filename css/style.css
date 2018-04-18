@@ -1,16 +1,15 @@
-.bandera, .bandera p {
-  display: inline;
-  margin: 0px 10px;
+.bandera {
+  display: block;
+  height: 20vh;
+
+
+
 }
 
 .amarillo {
-  background-color: #dfe31b;
+  background-color: #e8bc1e;
 }
 
 .gris {
   background-color: #61535b;
-}
-.texto-mayusculas{
-  text-transform: uppercase;
-
 }
