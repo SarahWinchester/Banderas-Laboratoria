@@ -1,8 +1,6 @@
-.bandera {
-  display: inline-block;
-  height: 20vh;
-  width: 20%;
-  margin-left: 10px;
+.bandera, .bandera p {
+ display: inline;
+  margin: 0px 10px;
 }
 
 .amarillo {
